@@ -1,6 +1,6 @@
 close all   
 format long g
-              %Muhammed Ali LALE 20011045 Sinyaller ve Sistemler Grup 2            
+                        
 key =  ['1','2','3'
         '4','5','6'
         '7','8','9'
